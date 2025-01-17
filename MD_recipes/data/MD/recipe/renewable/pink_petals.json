@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    "minecraft:cherry_leaves",
+    "minecraft:cherry_leaves"
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:pink_petals"
+  }
+}
